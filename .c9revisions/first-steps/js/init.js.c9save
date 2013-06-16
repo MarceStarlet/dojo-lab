@@ -1,8 +1,0 @@
-{"ts":1371354240138,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
-{"contributors":[],"silentsave":false,"ts":1371354257574,"patch":[[{"diffs":[[1,"alert(\"hello world\");"]],"start1":0,"start2":0,"length1":0,"length2":21}]],"length":21,"saved":false}
-{"ts":1371354716485,"patch":[[{"diffs":[[-1,"alert(\"hello world\""],[1,"require([\"dojo/dom\"], function(dom){\r\n    var node = dom.byId(\"someNode\");\r\n    node.innerHTML = \"This is a dynamic text set by dojo\";\r\n}"],[0,");"]],"start1":0,"start2":0,"length1":21,"length2":139}]],"length":139,"saved":false}
-{"ts":1371354733870,"patch":[[{"diffs":[[0,"Id(\""],[-1,"someNode"],[1,"dynamicContent"],[0,"\");\r"]],"start1":59,"start2":59,"length1":16,"length2":22}]],"length":145,"saved":false}
-{"ts":1371355115298,"patch":[[{"diffs":[[0,"(dom){\r\n"],[1,"    console.debug(\"dom\", dom);\r\n"],[0,"    var "]],"start1":30,"start2":30,"length1":16,"length2":48}]],"length":177,"saved":false}
-{"ts":1371355230153,"patch":[[{"diffs":[[0,"Content\");\r\n"],[1,"    console.debug(\"node\", node);\r\n"],[0,"    node.inn"]],"start1":102,"start2":102,"length1":24,"length2":58}]],"length":211,"saved":false}
-{"ts":1371355363612,"patch":[[{"diffs":[[0,"dom\""],[1,", \r\n         \"dojo/domReady!\""],[0,"], "],[1,"\r\n"],[0,"func"]],"start1":15,"start2":15,"length1":11,"length2":42}]],"length":242,"saved":false}
-{"ts":1371355390337,"patch":[[{"diffs":[[0,"){\r\n"],[-1,"    console.debug(\"dom\", dom);\r\n"],[0,"    "]],"start1":65,"start2":65,"length1":40,"length2":8},{"diffs":[[0,");\r\n"],[-1,"    console.debug(\"node\", node);\r\n"],[0,"    "]],"start1":109,"start2":109,"length1":42,"length2":8}]],"length":176,"saved":false}
